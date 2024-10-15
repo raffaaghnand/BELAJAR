@@ -1,0 +1,3 @@
+/home/raffa/Documents/tugas1_rival/build/CMakeFiles/rebuild_cache.dir
+/home/raffa/Documents/tugas1_rival/build/CMakeFiles/edit_cache.dir
+/home/raffa/Documents/tugas1_rival/build/CMakeFiles/run.dir

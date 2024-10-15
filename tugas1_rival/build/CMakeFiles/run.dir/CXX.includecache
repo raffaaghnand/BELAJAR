@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raffa/Documents/tugas1_rival/src/game.hpp
+permen.hpp
+/home/raffa/Documents/tugas1_rival/src/permen.hpp
+jaring.hpp
+/home/raffa/Documents/tugas1_rival/src/jaring.hpp
+vector
+-
+
+/home/raffa/Documents/tugas1_rival/src/jaring.hpp
+opencv4/opencv2/opencv.hpp
+-
+
+/home/raffa/Documents/tugas1_rival/src/main.cpp
+opencv4/opencv2/opencv.hpp
+-
+iostream
+-
+game.hpp
+/home/raffa/Documents/tugas1_rival/src/game.hpp
+permen.hpp
+/home/raffa/Documents/tugas1_rival/src/permen.hpp
+jaring.hpp
+/home/raffa/Documents/tugas1_rival/src/jaring.hpp
+
+/home/raffa/Documents/tugas1_rival/src/permen.hpp
+opencv4/opencv2/opencv.hpp
+-
+
