@@ -1,8 +1,0 @@
-prefix=/home/raffa/Documents/tugas2_rival/devel
-
-Name: turtlebot_drawer
-Description: Description of turtlebot_drawer
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
